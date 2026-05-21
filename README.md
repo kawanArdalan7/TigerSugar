@@ -36,9 +36,9 @@
             <li><a href="#expert-review">Expert Review</a></li>
           </ul>
         </li>
-        <li><a href="#sprint-1---core-foundations-oct-30---nov-7">Sprint 1</a></li>
-        <li><a href="#sprint-2---feature-expansion-nov-13---nov-21">Sprint 2</a></li>
-        <li><a href="#sprint-3---polish--advanced-features-nov-27---dec-5">Sprint 3</a></li>
+        <li><a href="#sprint-1----core-foundations-oct-30----nov-7">Sprint 1</a></li>
+        <li><a href="#sprint-2----feature-expansion-nov-13----nov-21">Sprint 2</a></li>
+        <li><a href="#sprint-3----polish--advanced-features-nov-27----dec-5">Sprint 3</a></li>
       </ul>
     </li>
     <li>
