@@ -126,7 +126,7 @@ The result is a system that improves **speed**, **accuracy**, and **user satisfa
 
 ## Project Roadmap
 
-### Pre-Development (Oct 16 - Oct 24)
+### Pre-Development (Oct 16 – Oct 24)
 
 #### User Research
 
