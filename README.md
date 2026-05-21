@@ -1,8 +1,8 @@
 <a id="readme-top"></a>
 
-# Tiger Sugar - Full-Stack Ordering & Management System
+# Tiger Sugar – Full-Stack Ordering & Management System
 
-> **Academic Project | Texas A&M University (Oct 2023 - Dec 2023)**
+> **Academic Project | Texas A&M University (Oct 2023 – Dec 2023)**
 
 > **Important Notice** \
 > This project is **no longer runnable** due to the archival of its database. A **full video demo** is available below showcasing all functionality in action.
@@ -62,7 +62,7 @@
 
 ## Project Overview
 
-Tiger Sugar is a full-stack web application designed to modernize and streamline the ordering and management workflow of a popular boba café. Built with **React**, **Node.js**, and **PostgreSQL**, the platform supports **three distinct user roles**—customers, cashiers, and managers—each with tailored interfaces and functionality.
+Tiger Sugar is a full-stack web application designed to modernize and streamline the ordering and management workflow of a popular boba café. Built with **React**, **Node.js**, and **PostgreSQL**, the platform supports **three distinct user roles** – customers, cashiers, and managers—each with tailored interfaces and functionality.
 
 The application prioritizes **accessibility**, **usability**, and **operational efficiency**, featuring:
 
@@ -111,14 +111,14 @@ The result is a system that improves **speed**, **accuracy**, and **user satisfa
 
 ## Built With
 
-* [![React][react-shield]][react-url]
-* [![MUI][mui-shield]][mui-url]
-* [![NodeJS][nodejs-shield]][nodejs-url]
-* [![ExpressJS][expressjs-shield]][expressjs-url]
-* [![PostgreSQL][postgresql-shield]][postgresql-url]
-* [![UserWay][userway-shield]][userway-url]
-* [![Google Translate][google-translate-shield]][google-translate-url]
-* [![Visual Crossing][visual-crossing-shield]][visual-crossing-url]
+- [![React][react-shield]][react-url]
+- [![MUI][mui-shield]][mui-url]
+- [![NodeJS][nodejs-shield]][nodejs-url]
+- [![ExpressJS][expressjs-shield]][expressjs-url]
+- [![PostgreSQL][postgresql-shield]][postgresql-url]
+- [![UserWay][userway-shield]][userway-url]
+- [![Google Translate][google-translate-shield]][google-translate-url]
+- [![Visual Crossing][visual-crossing-shield]][visual-crossing-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +130,7 @@ The result is a system that improves **speed**, **accuracy**, and **user satisfa
 
 #### User Research
 
-Focus on accessibility, clarity, and ease of use--especially for:
+Focus on accessibility, clarity, and ease of use – especially for:
 
 - Visually impaired users
 - Non-English speakers
@@ -158,7 +158,7 @@ Actions taken:
 
 ---
 
-### Sprint 1 - Core Foundations (Oct 30 - Nov 7)
+### Sprint 1 – Core Foundations (Oct 30 – Nov 7)
 
 - [x] Database connection and menu retrieval
 - [x] Static customer menu view
@@ -171,7 +171,7 @@ Actions taken:
 
 ---
 
-### Sprint 2 - Feature Expansion (Nov 13 - Nov 21)
+### Sprint 2 – Feature Expansion (Nov 13 – Nov 21)
 
 - [x] Employee database cleanup
 - [x] Menu database restructuring
@@ -184,7 +184,7 @@ Actions taken:
 
 ---
 
-### Sprint 3 - Polish & Advanced Features (Nov 27 - Dec 5)
+### Sprint 3 – Polish & Advanced Features (Nov 27 – Dec 5)
 
 - [x] UI scaling controls
 - [x] Google Translate integration
@@ -259,11 +259,11 @@ I served as the **Frontend Lead** on this project, with ownership over the custo
 
 Special thanks to my fellow team members:
 
-- **[Nicholas Nguyen][nicholas-nguyen-linkedin-url]** — Project Manager & Backend Developer \
+- **[Nicholas Nguyen][nicholas-nguyen-linkedin-url]** – Project Manager & Backend Developer \
   Led sprint planning and contributed to backend systems.
-- **[Joshua Mueck][joshua-mueck-linkedin-url]** — Frontend Support & Testing \
+- **[Joshua Mueck][joshua-mueck-linkedin-url]** – Frontend Support & Testing \
   Implemented cashier interfaces, employee authentication, and OAuth integration.
-- **[Yusa Sagli][yusa-sagli-linkedin-url]** — Backend Support & Technical Documentation \
+- **[Yusa Sagli][yusa-sagli-linkedin-url]** – Backend Support & Technical Documentation \
   Assisted with backend development and authored technical support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -274,9 +274,9 @@ Special thanks to my fellow team members:
 
 Special thanks to these additional resources:
 
-* [Render][render-url]
-* [Best-README-Template by othneildrew][readme-template-url]
-* [Img Shields][shields-url]
+- [Render][render-url]
+- [Best-README-Template by othneildrew][readme-template-url]
+- [Img Shields][shields-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
